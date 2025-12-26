@@ -1,0 +1,25 @@
+INTENT
+version: 0.1
+
+who:
+  name:
+  role:
+
+what:
+  action:
+
+scope:
+  target:
+
+limits:
+  money:
+  time:
+  quantity:
+
+approval:
+  required:
+  by:
+
+proof:
+  store:
+  retain_for:
